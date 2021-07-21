@@ -27,6 +27,8 @@ Then press enter!
 ## Results
 The results for this board are pretty interesting; it leaves two pegs on opposite ends of the board. Weird!
 
+> `*` is a peg, `-` is an empty slot. Round 0 is the starting state of the board from your input string.
+
     Results........
     Round: 0
         *
