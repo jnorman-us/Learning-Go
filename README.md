@@ -1,6 +1,8 @@
 # Learning-Go
 I decided to learn Golang by creating a solver for the Cracker Barrel Peg Game
 
+![Cracker Barrel Peg Game](https://github.com/josephnormandev/Learning-Go/blob/main/cbfront.jpg)
+
 ## Running
 From the Root Directory, run the following command:
 
